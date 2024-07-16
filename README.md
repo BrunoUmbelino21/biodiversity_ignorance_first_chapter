@@ -1,7 +1,3 @@
------
-output: github_document
-----
-
   # General Overview.
   
   This repository contains all data used to build the paper “Perceptions of shortfalls in biodiversity research, insights and applications: a systematic review”, part of my thesis project in developing at postgraduate in Ecology on Universidade Federal do Rio de Janeiro.
