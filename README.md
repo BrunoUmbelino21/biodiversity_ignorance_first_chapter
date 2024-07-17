@@ -13,12 +13,17 @@ In this study we brought secondary data from literature published on Web of Scie
   
   . figures: there are two files workflow from the methodology process and new approach of shortfalls with influences from human actions. 
 
-  # Downloading this repository
+## Downloading this repository
 The user can download this repo to a local folder in your computer or clone it:
-  
-  downloading all files
 
+```{r eval=FALSE, echo=TRUE}
+download.file(url = "https://github.com/BrunoUmbelino21/biodiversity_ignorance_first_chapter/archive/main.zip", destfile = "biodiversity_ignorance_first_chapter.zip")
+```
 to unzip the .zip file in your computer type
+
+```{r eval=FALSE,echo=TRUE}
+unzip(zipfile = "biodiversity_ignorance_first_chapter.zip")
+```
 
   # Authors
 Bruno Umbelino, Stephanie Vaz, Mauricio de Almeida-Gomes, Marcus Vinicius Vieira
