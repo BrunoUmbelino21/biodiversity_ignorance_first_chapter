@@ -8,6 +8,7 @@ In this study we brought secondary data from literature published on Web of Scie
   # Folders
   . PRISMA_files: contains all documents guided our systematic review like, abstract checklist, manuscript checklist and diagram on .doc format.
   
+  . doc: a release from the manuscript explaining the key findings. This document is in .pdf format.
   
   . citations_files: contain one .xml file with all references/studies remain.
   
